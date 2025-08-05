@@ -1,0 +1,72 @@
+{
+  "images": [
+    {
+      "src": "gallery/images/IMG_1981.jpg",
+      "title": "IMG_1981.jpg",
+      "date": "",
+      "location": ""
+    },
+    {
+      "src": "gallery/images/IMG_1982.jpg",
+      "title": "IMG_1982.jpg",
+      "date": "",
+      "location": ""
+    },
+    {
+      "src": "gallery/images/IMG_1983.jpg",
+      "title": "IMG_1983.jpg",
+      "date": "",
+      "location": ""
+    },
+    {
+      "src": "gallery/images/IMG_1987.jpg",
+      "title": "IMG_1987.jpg",
+      "date": "",
+      "location": ""
+    },
+    {
+      "src": "gallery/images/IMG_3134.png",
+      "title": "IMG_3134.png",
+      "date": "",
+      "location": ""
+    },
+    {
+      "src": "gallery/images/IMG_3220.png",
+      "title": "IMG_3220.png",
+      "date": "",
+      "location": ""
+    },
+    {
+      "src": "gallery/images/IMG_8149.jpg",
+      "title": "IMG_8149.jpg",
+      "date": "",
+      "location": ""
+    }
+  ],
+  "videos": [
+    {
+      "src": "gallery/videos/Escalatorfinal.mp4",
+      "title": "Escalatorfinal.mp4",
+      "date": "",
+      "location": ""
+    },
+    {
+      "src": "gallery/videos/Jump_Sound.mp4",
+      "title": "Jump_Sound.mp4",
+      "date": "",
+      "location": ""
+    },
+    {
+      "src": "gallery/videos/Spin.mp4",
+      "title": "Spin.mp4",
+      "date": "",
+      "location": ""
+    },
+    {
+      "src": "gallery/videos/Turn.mp4",
+      "title": "Turn.mp4",
+      "date": "",
+      "location": ""
+    }
+  ]
+}
